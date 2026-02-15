@@ -24,7 +24,7 @@
   systemctl stop panelx 2>/dev/null || true
 
   # Download and run fixed installer
-  wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-production.sh
+  wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-production.sh
   chmod +x install-production.sh
   ./install-production.sh
 
@@ -124,13 +124,13 @@
 │ ⚡ ONE-LINER INSTALL                                           │
 └────────────────────────────────────────────────────────────────┘
 
-  wget -qO- https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-production.sh | bash
+  wget -qO- https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-production.sh | bash
 
 ┌────────────────────────────────────────────────────────────────┐
 │ 🔗 REPOSITORY                                                  │
 └────────────────────────────────────────────────────────────────┘
 
-  https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+  https://github.com/mipisoft/PanelX-V3.0.0-PRO
   Latest Commit: 2054c63
   Status: ✅ READY TO INSTALL
 
