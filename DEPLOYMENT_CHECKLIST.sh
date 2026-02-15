@@ -156,7 +156,7 @@ All fixes are documented in detail:
    • 8e2c22f - Quick summary
    • 82f1533 - README update
 
-All available at: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+All available at: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -215,6 +215,6 @@ Deploy now and start using your IPTV management panel!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Questions or issues? Open an issue on GitHub:
-https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 
 EOF
