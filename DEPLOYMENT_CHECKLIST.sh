@@ -19,7 +19,7 @@ Step 1: Deploy Fixes to VPS
 
 Run this command on your VPS (69.169.102.47) as root:
 
-    curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
+    curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
 
 Expected time: 2-3 minutes
 Expected output: ✅ Success messages and test results
