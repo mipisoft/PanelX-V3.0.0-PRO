@@ -5,7 +5,7 @@
     "status": "100% COMPLETE",
     "completion_date": "2026-01-24",
     "total_hours": 75,
-    "repository": "https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO",
+    "repository": "https://github.com/mipisoft/PanelX-V3.0.0-PRO",
     "branch": "main",
     "latest_commit": "798d5d1",
     "live_demo": "https://5000-inp5g62ba3jpzxeq02isr-a402f90a.sandbox.novita.ai",
@@ -414,7 +414,7 @@
     "webhook_event_types": 12
   },
   "critical_urls": {
-    "repository": "https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO",
+    "repository": "https://github.com/mipisoft/PanelX-V3.0.0-PRO",
     "live_demo": "https://5000-inp5g62ba3jpzxeq02isr-a402f90a.sandbox.novita.ai",
     "latest_commit": "798d5d1"
   },
