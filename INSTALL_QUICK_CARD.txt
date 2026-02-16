@@ -3,7 +3,7 @@
 ║                         Ubuntu 24.04 Server                            ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
-║  📦 REPOSITORY: github.com/ErvinHalilaj/PanelX-V3.0.0-PRO             ║
+║  📦 REPOSITORY: github.com/mipisoft/PanelX-V3.0.0-PRO             ║
 ║  📅 DATE: 2026-01-24                                                   ║
 ║  🔖 COMMIT: 4d69699                                                    ║
 ║  ✅ STATUS: Authentication Fixed, Ready to Install                     ║
@@ -12,7 +12,7 @@
 ║  🎯 ONE-COMMAND INSTALLATION                                           ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
-║  wget https://raw.githubusercontent.com/ErvinHalilaj/ \                ║
+║  wget https://raw.githubusercontent.com/mipisoft/ \                ║
 ║  PanelX-V3.0.0-PRO/main/install-panelx.sh && \                         ║
 ║  chmod +x install-panelx.sh && \                                       ║
 ║  ./install-panelx.sh                                                   ║
@@ -135,7 +135,7 @@
 ║  sudo -u postgres psql -c "DROP USER panelx;"                          ║
 ║                                                                        ║
 ║  # Run installation script again                                       ║
-║  wget https://raw.githubusercontent.com/ErvinHalilaj/ \                ║
+║  wget https://raw.githubusercontent.com/mipisoft/ \                ║
 ║  PanelX-V3.0.0-PRO/main/install-panelx.sh                              ║
 ║  chmod +x install-panelx.sh                                            ║
 ║  ./install-panelx.sh                                                   ║
