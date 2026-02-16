@@ -246,7 +246,7 @@ fi
 
 # Clone repository
 log_info "Downloading PanelX V3.0.0 PRO..."
-sudo -u panelx git clone -q https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git "$PROJECT_DIR"
+sudo -u panelx git clone -q https://github.com/mipisoft/PanelX-V3.0.0-PRO.git "$PROJECT_DIR"
 
 if [ ! -d "$PROJECT_DIR" ]; then
     log_error "Failed to clone repository"
@@ -690,7 +690,7 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo "📚 DOCUMENTATION"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""
-echo "   GitHub:   https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO"
+echo "   GitHub:   https://github.com/mipisoft/PanelX-V3.0.0-PRO"
 echo "   README:   /home/panelx/webapp/README.md"
 echo "   Logs:     /home/panelx/logs/"
 echo ""
