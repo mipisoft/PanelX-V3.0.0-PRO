@@ -295,7 +295,7 @@ cd "$PROJECT_DIR"
 
 # Build the frontend with increased memory
 log_info "Compiling frontend with Vite..."
-sudo -u panelx bash -c "cd $PROJECT_DIR && NODE_OPTIONS='--max-old-space-size=4096' npm run build" 2>&1 | tail -10
+sudo -u panelx bash -c "cd $PROJECT_DIR && NODE_OPTIONS='--max-old-space-size=2045' npm run build" 2>&1 | tail -10
 
 # Verify build was successful
 if [ -d "$PROJECT_DIR/dist" ] && [ -f "$PROJECT_DIR/dist/index.html" ]; then
