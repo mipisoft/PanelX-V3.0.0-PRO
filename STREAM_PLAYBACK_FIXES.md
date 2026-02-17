@@ -497,7 +497,7 @@ sleep 30 && ps aux | grep ffmpeg
 - `01a9cb4` - Add implementation documentation
 
 **GitHub:**
-https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 ---
 

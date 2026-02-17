@@ -38,7 +38,7 @@ systemctl stop panelx 2>/dev/null || true
 rm -f /etc/systemd/system/panelx.service
 
 # Step 2: Download fixed installer
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-production.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-production.sh
 
 # Step 3: Make it executable
 chmod +x install-production.sh
@@ -296,7 +296,7 @@ The installer is tested and ready. Just run:
 
 ```bash
 cd /root
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-production.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-production.sh
 chmod +x install-production.sh
 ./install-production.sh
 ```

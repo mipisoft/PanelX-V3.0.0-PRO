@@ -7,13 +7,13 @@ This installer has been **tested and verified** to work on **ALL Ubuntu versions
 ### **Quick Install (Recommended)**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 ### **Alternative: Manual Download**
 
 ```bash
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh
 chmod +x autoinstaller.sh
 sudo ./autoinstaller.sh
 ```
@@ -425,7 +425,7 @@ The installer enables UFW firewall and allows:
 ## 📚 **Additional Documentation**
 
 - **Main README:** `/home/panelx/webapp/README.md`
-- **GitHub Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **API Documentation:** Check `/home/panelx/webapp/server/routes.ts`
 - **Database Schema:** Check `/home/panelx/webapp/shared/schema.ts`
 
@@ -516,7 +516,7 @@ Your installation is **successful** when:
 If you encounter issues not covered in this guide:
 
 1. **Check logs:** `sudo -u panelx pm2 logs panelx --lines 100`
-2. **Check GitHub issues:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+2. **Check GitHub issues:** https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 3. **Review troubleshooting section** above
 4. **Verify system requirements** are met
 
@@ -556,7 +556,7 @@ This **bulletproof installer** is designed to handle **all Ubuntu versions** and
 **Just run the command and access your panel!**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 ---

@@ -38,7 +38,7 @@ You now have **4 comprehensive guides** to help you update your server:
 
 ```bash
 cd /opt/panelx && \
-wget -O update-server.sh https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-server.sh && \
+wget -O update-server.sh https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-server.sh && \
 chmod +x update-server.sh && \
 sudo ./update-server.sh
 ```
@@ -168,7 +168,7 @@ Export: ✅ [📄 CSV] [📊 Excel] [📺 M3U]
 2. **Run the update script:**
    ```bash
    cd /opt/panelx
-   wget -O update-server.sh https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-server.sh
+   wget -O update-server.sh https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-server.sh
    chmod +x update-server.sh
    sudo ./update-server.sh
    ```
@@ -377,7 +377,7 @@ You'll know the update succeeded when:
 
 ## 📊 Current Status
 
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 **Latest Commit:** `b7670a9` (2026-01-24)
 
@@ -524,7 +524,7 @@ You're updating PanelX with:
 
 **Need help?** Check the documentation or send error logs.
 
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 **Latest Commit:** `b7670a9`
 

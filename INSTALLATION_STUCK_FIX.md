@@ -21,14 +21,14 @@ Press **Ctrl+C** to cancel current installation, then run with non-interactive f
 
 ```bash
 export DEBIAN_FRONTEND=noninteractive
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
 ```
 
 Or download and edit the script to add non-interactive mode:
 
 ```bash
 # Download script
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh
 
 # Add this at the top (after #!/bin/bash)
 nano install-vps-tested.sh
@@ -54,7 +54,7 @@ Dpkg::Options {
 EOF
 
 # Now run installer
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
 ```
 
 ## If Nothing Works
@@ -74,7 +74,7 @@ sudo apt-get update -qq
 sudo DEBIAN_FRONTEND=noninteractive apt-get upgrade -y -o Dpkg::Options::="--force-confdef" -o Dpkg::Options::="--force-confold"
 
 # Now run the installer
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
 ```
 
 ## Quick Solution Summary
@@ -88,7 +88,7 @@ curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main
 2. Run:
 ```bash
 export DEBIAN_FRONTEND=noninteractive
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
 ```
 
 This will skip all interactive prompts and complete automatically.

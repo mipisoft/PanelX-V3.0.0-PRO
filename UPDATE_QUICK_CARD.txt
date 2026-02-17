@@ -3,7 +3,7 @@
 ║                         Quick Reference Card                           ║
 ╠════════════════════════════════════════════════════════════════════════╣
 ║                                                                        ║
-║  📦 REPOSITORY: github.com/ErvinHalilaj/PanelX-V3.0.0-PRO             ║
+║  📦 REPOSITORY: github.com/mipisoft/PanelX-V3.0.0-PRO             ║
 ║  📅 DATE: 2026-01-24                                                   ║
 ║  🔖 COMMIT: 71516d4                                                    ║
 ║                                                                        ║
@@ -13,7 +13,7 @@
 ║                                                                        ║
 ║  cd /opt/panelx && \                                                   ║
 ║  wget -O update-server.sh \                                            ║
-║  https://raw.githubusercontent.com/ErvinHalilaj/ \                     ║
+║  https://raw.githubusercontent.com/mipisoft/ \                     ║
 ║  PanelX-V3.0.0-PRO/main/update-server.sh && \                          ║
 ║  chmod +x update-server.sh && \                                        ║
 ║  sudo ./update-server.sh                                               ║

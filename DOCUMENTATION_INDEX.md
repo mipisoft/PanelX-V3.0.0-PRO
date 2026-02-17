@@ -3,7 +3,7 @@
 **Version:** v3.0.0  
 **Current Feature Parity:** 73%  
 **Target Feature Parity:** 100%  
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Production Server:** http://69.169.102.47:5000/
 
 ---
@@ -346,7 +346,7 @@ All Categories: 90%+
 ## 📞 Support & Resources
 
 **GitHub Repository:**  
-https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 **Live Production Server:**  
 http://69.169.102.47:5000/
@@ -523,5 +523,5 @@ This documentation suite provides everything needed to bring PanelX from 73% to 
 ---
 
 *Documentation Index created: January 24, 2026*  
-*Repository: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO*  
+*Repository: https://github.com/mipisoft/PanelX-V3.0.0-PRO*  
 *Version: v3.0.0 (73% → 100% in 14 weeks)*

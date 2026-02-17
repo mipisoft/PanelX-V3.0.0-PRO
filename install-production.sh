@@ -3,7 +3,7 @@
 #############################################################
 # PanelX Installation Script - Production Ready v3.1.0
 # Tested on Ubuntu 24.04
-# GitHub: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+# GitHub: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 #############################################################
 
 set -e  # Exit on any error
@@ -160,7 +160,7 @@ if [ -d "$INSTALL_DIR" ]; then
     mv "$INSTALL_DIR" "${INSTALL_DIR}.backup.$(date +%Y%m%d_%H%M%S)"
 fi
 
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git "$INSTALL_DIR" || error_exit "Failed to clone repository"
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git "$INSTALL_DIR" || error_exit "Failed to clone repository"
 
 if [ ! -f "$INSTALL_DIR/package.json" ]; then
     error_exit "Repository clone incomplete - package.json not found"
@@ -246,7 +246,7 @@ print_step "Step 12/13: Creating systemd service..."
 cat > /etc/systemd/system/panelx.service << EOF
 [Unit]
 Description=PanelX IPTV Management Panel
-Documentation=https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+Documentation=https://github.com/mipisoft/PanelX-V3.0.0-PRO
 After=network.target postgresql.service
 Wants=postgresql.service
 

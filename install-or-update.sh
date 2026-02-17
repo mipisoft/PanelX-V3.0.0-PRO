@@ -44,7 +44,7 @@ if [ ! -d "$INSTALL_DIR" ]; then
     # Download and run the full installer
     echo -e "${BLUE}[1/2]${NC} Downloading complete installer..."
     cd /root
-    wget -q https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-production.sh -O install-production.sh
+    wget -q https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-production.sh -O install-production.sh
     chmod +x install-production.sh
     
     echo -e "${BLUE}[2/2]${NC} Running installation..."

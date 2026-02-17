@@ -101,7 +101,7 @@ if [ -d "$INSTALL_DIR" ]; then
     echo -e "${YELLOW}⚠️  Removing existing installation...${NC}"
     rm -rf "$INSTALL_DIR"
 fi
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git "$INSTALL_DIR" > /dev/null 2>&1
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git "$INSTALL_DIR" > /dev/null 2>&1
 echo -e "${GREEN}✅ Repository cloned to $INSTALL_DIR${NC}"
 echo ""
 

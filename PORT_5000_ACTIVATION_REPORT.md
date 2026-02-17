@@ -294,7 +294,7 @@ ws.onmessage = (event) => {
 ## 📚 Documentation
 
 ### Repository
-**GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 **Branch**: main
 **Latest Commit**: 1457a06
 
@@ -308,7 +308,7 @@ ws.onmessage = (event) => {
 ### Quick Links
 - 🔗 [Port 5000 HTML](https://5000-inp5g62ba3jpzxeq02isr-a402f90a.sandbox.novita.ai)
 - 🔗 [Port 3000 API](https://3000-inp5g62ba3jpzxeq02isr-a402f90a.sandbox.novita.ai)
-- 🔗 [GitHub Repo](https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO)
+- 🔗 [GitHub Repo](https://github.com/mipisoft/PanelX-V3.0.0-PRO)
 
 ---
 

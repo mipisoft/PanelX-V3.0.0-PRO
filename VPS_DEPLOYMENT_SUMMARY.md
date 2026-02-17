@@ -68,7 +68,7 @@ Everything you need to know:
 ssh root@your-server-ip
 
 # 3. Run the installer
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git
 cd PanelX-V3.0.0-PRO
 chmod +x install-vps.sh
 sudo ./install-vps.sh
@@ -319,8 +319,8 @@ cat /home/panelx/webapp/.env | grep DATABASE_URL
 
 ## 📞 **Support**
 
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
-- **Issues**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
+- **Issues**: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 - **Documentation**: Check `/docs` folder in repository
 
 ---

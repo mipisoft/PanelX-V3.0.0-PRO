@@ -154,7 +154,7 @@ if [ -d "$INSTALL_DIR" ]; then
 fi
 
 # Clone repository
-$SUDO_CMD git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git "$INSTALL_DIR"
+$SUDO_CMD git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git "$INSTALL_DIR"
 if [[ $EUID -ne 0 ]]; then
     $SUDO_CMD chown -R $USER:$USER "$INSTALL_DIR"
 fi

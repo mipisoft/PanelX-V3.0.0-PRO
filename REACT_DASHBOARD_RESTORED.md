@@ -365,7 +365,7 @@ npm run deploy
 ## 📖 **Documentation**
 
 ### **Repository**
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Branch**: main
 - **Latest Commit**: 87d741b
 

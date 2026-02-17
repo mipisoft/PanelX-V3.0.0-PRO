@@ -269,4 +269,4 @@ This allows the player to load streams from external sources without CORS issues
 **Fixed By**: AI Development Team  
 **Date**: January 24, 2026  
 **Commit**: 9cdb915  
-**GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO

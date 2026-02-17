@@ -117,7 +117,7 @@ echo -e "   Check Nginx:         ${YELLOW}systemctl status nginx${NC}"
 echo ""
 
 echo -e "${CYAN}📚 Documentation:${NC}"
-echo -e "   GitHub: ${BLUE}https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO${NC}"
+echo -e "   GitHub: ${BLUE}https://github.com/mipisoft/PanelX-V3.0.0-PRO${NC}"
 echo ""
 
 echo -e "${GREEN}🎉 Your IPTV Management Panel is ready to use!${NC}"

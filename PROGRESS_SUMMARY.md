@@ -210,7 +210,7 @@
 10. ✅ `PROGRESS_SUMMARY.md` (this file)
 
 ### Repository
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Latest Commit**: f2123ee
 - **Branch**: main
 - **Status**: All Phase 1 & 2 complete ✅

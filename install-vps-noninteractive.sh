@@ -115,7 +115,7 @@ if [ -d "$PROJECT_DIR" ]; then
     cd $PROJECT_DIR
     sudo -u panelx git pull >/dev/null 2>&1 || true
 else
-    sudo -u panelx git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git $PROJECT_DIR >/dev/null 2>&1
+    sudo -u panelx git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git $PROJECT_DIR >/dev/null 2>&1
 fi
 log_info "✅ Project ready"
 

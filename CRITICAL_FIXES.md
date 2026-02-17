@@ -5,7 +5,7 @@
 Run this ONE command on your VPS to apply ALL fixes:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-panel.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-panel.sh | sudo bash
 ```
 
 This will:
@@ -253,7 +253,7 @@ All endpoints now require authentication (session cookie):
 
 ## Contact & Support
 
-- **GitHub Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Panel URL**: http://69.169.102.47/
 - **Default Login**: admin / admin123
 - **Change Password**: After login, go to Settings → Change Password
@@ -272,5 +272,5 @@ All endpoints now require authentication (session cookie):
 **Next Step:** Run the update script on your VPS and test the features!
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-panel.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-panel.sh | sudo bash
 ```

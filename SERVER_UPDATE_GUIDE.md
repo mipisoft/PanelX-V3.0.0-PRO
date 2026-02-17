@@ -250,7 +250,7 @@ sudo -u postgres psql -c "ALTER USER panelx WITH PASSWORD 'panelx123';"
 ### 3. Clone Repository
 ```bash
 cd /opt
-sudo git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO panelx
+sudo git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO panelx
 sudo chown -R $USER:$USER panelx
 cd panelx
 ```
@@ -407,7 +407,7 @@ Full documentation available in repository:
 
 ---
 
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 **Latest Commit**: `707cfa7`
 **Status**: ✅ Ready to update
 

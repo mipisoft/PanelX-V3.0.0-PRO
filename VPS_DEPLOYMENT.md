@@ -59,7 +59,7 @@ ssh root@your-server-ip
 ### **Step 3: Run Installation Script**
 ```bash
 # Download the repository
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git /tmp/panelx-install
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git /tmp/panelx-install
 
 # Run automated installer
 cd /tmp/panelx-install
@@ -154,7 +154,7 @@ sudo mkdir -p /home/panelx
 sudo chown panelx:panelx /home/panelx
 
 # Clone repository
-sudo -u panelx git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git /home/panelx/webapp
+sudo -u panelx git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git /home/panelx/webapp
 
 # Install dependencies
 cd /home/panelx/webapp
@@ -481,8 +481,8 @@ With domain and SSL:
 
 ## 🆘 **Support & Documentation**
 
-- **GitHub Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
-- **Issues**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- **GitHub Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
+- **Issues**: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 - **Documentation**: Check repository `/docs` folder
 
 ---

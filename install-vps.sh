@@ -137,7 +137,7 @@ if [ ! -d "$INSTALL_DIR/webapp" ]; then
     else
         log_info "Please copy your application files to $INSTALL_DIR/webapp/"
         log_info "Or clone from GitHub:"
-        log_info "git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git $INSTALL_DIR/webapp"
+        log_info "git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git $INSTALL_DIR/webapp"
     fi
     
     chown -R $APP_USER:$APP_USER $INSTALL_DIR

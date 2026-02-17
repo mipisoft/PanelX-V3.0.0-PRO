@@ -255,7 +255,7 @@ sudo -u postgres psql -c "ALTER USER panelx WITH PASSWORD 'panelx123';"
 
 # 3. Clone repository
 cd /opt
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO panelx
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO panelx
 cd panelx
 
 # 4. Install Node packages
@@ -509,7 +509,7 @@ Follow the deployment instructions above to get your panel running in production
 
 **Estimated Deployment Time**: 15-30 minutes
 
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 **Latest Commit**: All fixes pushed to main branch
 
 ---

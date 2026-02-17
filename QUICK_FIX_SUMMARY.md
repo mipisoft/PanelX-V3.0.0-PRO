@@ -53,7 +53,7 @@ Your PanelX admin panel had **one major critical bug** that was preventing all d
 Run this on your VPS as root:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
 ```
 
 This will:
@@ -119,7 +119,7 @@ All fixes are in these commits:
 2. **87587ad** - "📦 Add deployment and testing scripts"
 3. **ca3576f** - "📝 Add comprehensive bug fix report"
 
-View on GitHub: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/commits/main
+View on GitHub: https://github.com/mipisoft/PanelX-V3.0.0-PRO/commits/main
 
 ---
 
@@ -195,4 +195,4 @@ curl http://localhost:5000/api/stats
 
 ---
 
-**Questions?** Open an issue: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+**Questions?** Open an issue: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues

@@ -95,7 +95,7 @@ if [ -d "$PROJECT_DIR" ]; then
     log_warn "Project directory already exists, skipping clone"
 else
     log_info "Cloning from GitHub..."
-    sudo -u panelx git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git $PROJECT_DIR
+    sudo -u panelx git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git $PROJECT_DIR
 fi
 
 cd $PROJECT_DIR

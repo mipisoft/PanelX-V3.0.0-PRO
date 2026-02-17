@@ -304,7 +304,7 @@ GRANT ALL PRIVILEGES ON DATABASE panelx TO panelx;
 
 ```bash
 # Clone repository
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO
 cd PanelX-V3.0.0-PRO
 
 # Install dependencies
@@ -578,7 +578,7 @@ On-Demand streaming provides **80% cost savings**:
 
 ## 📁 Repository
 
-**GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 **Latest Commit**: 37d8891 - Complete Create Line form with all missing fields
 

@@ -255,7 +255,7 @@ If you don't see the changes after deploying:
 
 ---
 
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Latest Commit**: `ee39e6c` - Critical fixes complete  
 **Server Status**: ✅ Running on port 5000
 

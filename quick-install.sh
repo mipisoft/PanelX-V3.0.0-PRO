@@ -76,7 +76,7 @@ echo ""
 
 echo -e "${BLUE}Step 6: Cloning PanelX...${NC}"
 rm -rf "$INSTALL_DIR"
-git clone -q https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git "$INSTALL_DIR"
+git clone -q https://github.com/mipisoft/PanelX-V3.0.0-PRO.git "$INSTALL_DIR"
 echo -e "${GREEN}✅ Repository cloned${NC}"
 echo ""
 

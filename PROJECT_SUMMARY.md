@@ -406,7 +406,7 @@ webapp/
 
 ## 🔗 Repository & Demo
 
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Branch**: main
 - **Latest Commit**: Phase 4 Complete (78067f1)
 - **Live Demo**: https://5000-inp5g62ba3jpzxeq02isr-a402f90a.sandbox.novita.ai
@@ -498,7 +498,7 @@ While the project is complete, potential future enhancements could include:
 ## 📞 Support & Contact
 
 For questions, issues, or feature requests:
-- GitHub Issues: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- GitHub Issues: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 - Documentation: See project `/docs` folder
 - API Reference: Access `/api` endpoint when server is running
 

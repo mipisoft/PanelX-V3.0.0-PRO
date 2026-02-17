@@ -1,6 +1,6 @@
 [Unit]
 Description=PanelX V3.0.0 PRO - IPTV Management Panel
-Documentation=https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+Documentation=https://github.com/mipisoft/PanelX-V3.0.0-PRO
 After=network.target postgresql.service
 
 [Service]

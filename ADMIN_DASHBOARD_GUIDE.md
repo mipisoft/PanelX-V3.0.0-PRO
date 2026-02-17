@@ -224,7 +224,7 @@ Currently using API endpoints. You can:
 ## 📖 **Documentation**
 
 ### **Repository**
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Branch**: main
 - **Latest Commit**: fb7a5f6
 

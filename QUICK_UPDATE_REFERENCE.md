@@ -5,7 +5,7 @@
 ```bash
 # On your server, run:
 cd /opt/panelx
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-server.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-server.sh
 chmod +x update-server.sh
 sudo ./update-server.sh
 ```
@@ -177,7 +177,7 @@ fuser -k 5000/tcp
 
 ## 📖 Full Documentation
 
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 **Guides**:
 - `SERVER_UPDATE_GUIDE.md` - Complete update guide

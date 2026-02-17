@@ -82,7 +82,7 @@ cd /path/to/parent/directory
 mv panelx panelx_old_$(date +%Y%m%d)
 
 # 4. Clone the latest version
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO panelx
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO panelx
 
 # 5. Navigate to new directory
 cd panelx
@@ -123,7 +123,7 @@ pm2 logs panelx --nostream
 
 ```bash
 # 1. Download the latest code
-wget https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/archive/refs/heads/main.zip
+wget https://github.com/mipisoft/PanelX-V3.0.0-PRO/archive/refs/heads/main.zip
 
 # 2. Extract
 unzip main.zip
@@ -439,7 +439,7 @@ If you encounter issues:
 
 1. **Check logs**: `pm2 logs panelx`
 2. **Check documentation**: Read COMPLETE_IMPLEMENTATION_REPORT.md
-3. **Check GitHub issues**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+3. **Check GitHub issues**: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 4. **Rollback**: Use backup if needed
 
 ---

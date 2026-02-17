@@ -3,13 +3,13 @@
 ## ⚡ One-Command Installation (Tested & Working)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-vps-tested.sh | sudo bash
 ```
 
 **OR** manual installation:
 
 ```bash
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git
 cd PanelX-V3.0.0-PRO
 chmod +x install-vps-tested.sh
 sudo ./install-vps-tested.sh

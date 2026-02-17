@@ -152,7 +152,7 @@ fi
 
 mkdir -p $INSTALL_DIR
 cd $INSTALL_DIR
-sudo -u $APP_USER git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git webapp > /dev/null 2>&1
+sudo -u $APP_USER git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git webapp > /dev/null 2>&1
 log_success "Repository cloned"
 
 # Install dependencies

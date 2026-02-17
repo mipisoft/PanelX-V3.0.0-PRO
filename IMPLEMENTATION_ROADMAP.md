@@ -4,7 +4,7 @@
 **Target:** 100% Feature Parity with XUIONE  
 **Current:** 73% Feature Parity  
 **Timeline:** 14 Weeks (3.5 Months)  
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 ---
 
@@ -1080,7 +1080,7 @@ To begin implementation:
 
 ## 📞 Support
 
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Production:** http://69.169.102.47:5000/  
 **Documentation:** See `/docs` folder  
 

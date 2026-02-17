@@ -44,7 +44,7 @@ ssh user@your-server-ip
 ### **Step 2: Run One Command**
 
 ```bash
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
 ```
 
 ### **Step 3: Wait 5-10 Minutes**
@@ -177,7 +177,7 @@ PGPASSWORD=panelx123 psql -h localhost -U panelx -d panelx -c "\dt"
 ### **1. Install on Your Server** (5-10 minutes)
 
 ```bash
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
 ```
 
 ### **2. Access Your Panel**
@@ -367,13 +367,13 @@ Error: password authentication failed for user "panelx"
 ## 🚀 **Ready to Go!**
 
 **Latest Commit:** `9631ec9`  
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Branch:** main  
 **Date:** 2026-01-24
 
 **Installation Command:**
 ```bash
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
 ```
 
 ---

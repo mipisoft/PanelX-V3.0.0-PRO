@@ -76,7 +76,7 @@ All API endpoints are accessible and functional:
 
 ### **Step 1: Clone Repository**
 ```bash
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO
 cd PanelX-V3.0.0-PRO
 ```
 
@@ -374,8 +374,8 @@ Expected output:
 
 ## 📞 SUPPORT & ISSUES
 
-- **GitHub**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
-- **Issues**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- **GitHub**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
+- **Issues**: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 - **Documentation**: See project docs folder
 
 ---

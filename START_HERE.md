@@ -12,7 +12,7 @@ I've created a **complete update package** with everything you need to update yo
 
 ```bash
 cd /opt/panelx && \
-wget -O update-server.sh https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-server.sh && \
+wget -O update-server.sh https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-server.sh && \
 chmod +x update-server.sh && \
 sudo ./update-server.sh
 ```
@@ -261,7 +261,7 @@ If you encounter any issues:
 
 ## 📦 Repository Information
 
-**GitHub:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**GitHub:** https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Latest Commit:** `2d1ab37`  
 **Date:** 2026-01-24  
 **Branch:** main  
@@ -326,7 +326,7 @@ Missing fields to add:
 ### Option 1: Automatic (Recommended)
 ```bash
 cd /opt/panelx && \
-wget -O update-server.sh https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/update-server.sh && \
+wget -O update-server.sh https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/update-server.sh && \
 chmod +x update-server.sh && \
 sudo ./update-server.sh
 ```

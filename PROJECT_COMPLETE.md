@@ -9,7 +9,7 @@ Your professional IPTV Management Panel is now **fully functional, tested, and p
 ## 🚀 One-Command Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 **Installation Time:** 5-10 minutes  
@@ -356,9 +356,9 @@ pm2 restart panelx
 
 ## 🔗 Links
 
-- **GitHub Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
-- **Installation Guide**: [BULLETPROOF_INSTALLATION.md](https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/blob/main/BULLETPROOF_INSTALLATION.md)
-- **Autoinstaller**: [autoinstaller.sh](https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/blob/main/autoinstaller.sh)
+- **GitHub Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
+- **Installation Guide**: [BULLETPROOF_INSTALLATION.md](https://github.com/mipisoft/PanelX-V3.0.0-PRO/blob/main/BULLETPROOF_INSTALLATION.md)
+- **Autoinstaller**: [autoinstaller.sh](https://github.com/mipisoft/PanelX-V3.0.0-PRO/blob/main/autoinstaller.sh)
 
 ---
 

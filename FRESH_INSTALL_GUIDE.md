@@ -5,7 +5,7 @@
 **Copy and paste this on your Ubuntu 24.04 server:**
 
 ```bash
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-panelx.sh && chmod +x install-panelx.sh && ./install-panelx.sh
 ```
 
 **That's it!** The script will:
@@ -168,7 +168,7 @@ DROP USER IF EXISTS panelx;
 EOF
 
 # Run installation script
-wget https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/install-panelx.sh
+wget https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/install-panelx.sh
 chmod +x install-panelx.sh
 ./install-panelx.sh
 ```
@@ -373,7 +373,7 @@ If installation fails, send:
 
 ---
 
-**Repository:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository:** https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Latest Commit:** Check GitHub for latest  
 **Status:** ✅ Production Ready
 

@@ -254,7 +254,7 @@ grep -c "export const" schema.ts  # Shows 43 tables
 
 ### If Deploying to Production VPS:
 1. Get a VPS with 4GB+ RAM (Hetzner €4.51/mo recommended)
-2. Clone the repo: `git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git`
+2. Clone the repo: `git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git`
 3. Run install script: `sudo ./install-vps.sh`
 4. Configure .env file (DATABASE_URL, SESSION_SECRET)
 5. Access: `http://your-server-ip`
@@ -291,5 +291,5 @@ grep -c "export const" schema.ts  # Shows 43 tables
 ---
 
 **Generated**: 2026-01-25
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO
 **Status**: Ready for VPS Deployment

@@ -1,7 +1,7 @@
 # PanelX V3.0.0 PRO - Complete IPTV Management Panel
 
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO)
-[![License](https://img.shields.io/badge/License-Proprietary-blue)](https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success)](https://github.com/mipisoft/PanelX-V3.0.0-PRO)
+[![License](https://img.shields.io/badge/License-Proprietary-blue)](https://github.com/mipisoft/PanelX-V3.0.0-PRO)
 [![Node](https://img.shields.io/badge/Node.js-20.x-green)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)](https://www.typescriptlang.org/)
@@ -19,7 +19,7 @@
 
 **Deploy fixes to existing installations:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/deploy-critical-fixes.sh | sudo bash
 ```
 
 📖 **Read:** [QUICK_FIX_SUMMARY.md](QUICK_FIX_SUMMARY.md) | [COMPREHENSIVE_FIX_REPORT.md](COMPREHENSIVE_FIX_REPORT.md)
@@ -29,7 +29,7 @@ curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main
 Install PanelX on your Ubuntu/Debian VPS in 5-10 minutes with a single command:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 **What gets installed:**
@@ -142,7 +142,7 @@ PanelX V3.0.0 PRO is a **complete, production-ready IPTV/OTT management platform
 ### ⚡ **ONE COMMAND - ZERO CONFIGURATION**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 **That's it!** The installer handles everything automatically:
@@ -454,7 +454,7 @@ psql postgresql://user:pass@localhost:5432/panelx
 
 - **Email**: support@panelx.com (example)
 - **Documentation**: https://docs.panelx.com (example)
-- **Issues**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- **Issues**: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 
 ## 📝 License
 
@@ -471,7 +471,7 @@ Built with:
 ---
 
 **Generated**: 2026-01-25  
-**Repository**: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO  
+**Repository**: https://github.com/mipisoft/PanelX-V3.0.0-PRO  
 **Status**: ✅ Production Ready
 
 **Made with ❤️ for IPTV/OTT professionals**

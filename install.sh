@@ -119,7 +119,7 @@ if [ -d "$PROJECT_DIR" ]; then
     rm -rf $PROJECT_DIR
 fi
 
-sudo -u panelx git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git $PROJECT_DIR > /dev/null 2>&1
+sudo -u panelx git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git $PROJECT_DIR > /dev/null 2>&1
 log_info "Project cloned"
 
 cd $PROJECT_DIR
@@ -333,7 +333,7 @@ echo "   Stop:          sudo -u panelx pm2 stop panelx"
 echo "   Test API:      curl http://localhost:5000/api/stats"
 echo ""
 echo "📚 DOCUMENTATION:"
-echo "   GitHub: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO"
+echo "   GitHub: https://github.com/mipisoft/PanelX-V3.0.0-PRO"
 echo "   README: /home/panelx/webapp/README.md"
 echo ""
 echo "╔══════════════════════════════════════════════════════════════╗"

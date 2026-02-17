@@ -63,7 +63,7 @@ apt install -y git
 
 # Clone PanelX repository
 cd /root
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git
 cd PanelX-V3.0.0-PRO
 
 # Make installer executable
@@ -389,7 +389,7 @@ useradd -m -s /bin/bash panelx
 
 # Clone repository
 cd /home/panelx
-git clone https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO.git webapp
+git clone https://github.com/mipisoft/PanelX-V3.0.0-PRO.git webapp
 chown -R panelx:panelx webapp
 
 # Switch to panelx user
@@ -866,7 +866,7 @@ You've successfully deployed PanelX V3.0.0 PRO! 🎉
 
 **Support:**
 - Documentation: All .md files in repository
-- Issues: https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO/issues
+- Issues: https://github.com/mipisoft/PanelX-V3.0.0-PRO/issues
 
 ---
 

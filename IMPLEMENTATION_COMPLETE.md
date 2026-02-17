@@ -606,6 +606,6 @@ With Load Balancer (5 servers):
 
 **Implementation completed:** January 22, 2026  
 **Commit:** f7577e5  
-**GitHub:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+**GitHub:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 
 🎉 **Your PanelX is now a professional IPTV panel with full XUI parity!**

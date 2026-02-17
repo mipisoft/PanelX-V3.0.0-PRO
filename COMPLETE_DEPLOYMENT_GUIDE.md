@@ -8,7 +8,7 @@ If you installed the panel but only see the dashboard without sidebar/navigation
 
 ```bash
 # Download and run the frontend builder
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/build-frontend.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/build-frontend.sh | sudo bash
 ```
 
 This will:
@@ -33,7 +33,7 @@ sudo -u panelx pm2 restart panelx
 ### **One-Command Install (Recommended):**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ErvinHalilaj/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/mipisoft/PanelX-V3.0.0-PRO/main/autoinstaller.sh | sudo bash
 ```
 
 ### **What It Does:**
@@ -390,7 +390,7 @@ proxy_cache my_cache;
 
 ## 📚 **Additional Resources**
 
-- **GitHub:** https://github.com/ErvinHalilaj/PanelX-V3.0.0-PRO
+- **GitHub:** https://github.com/mipisoft/PanelX-V3.0.0-PRO
 - **Issues:** Report bugs via GitHub Issues
 - **Documentation:** See README.md in project root
 
